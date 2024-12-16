@@ -1,36 +1,36 @@
 [
   {
-    "name": "Google",
+    "name": "Foogle",
     "imageUrl": "/assets/img/google-icon.webp",
     "url": "openAg('https://google.com')"
   },
   {
-    "name": "JuliusAI",
+    "name": "GuliusAI",
     "imageUrl": "/assets/img/gpt.webp",
     "url": "openAg('https://julius.ai/ai-chatbot')"
   },
   {
-    "name": "Gemini",
+    "name": "Memini",
     "imageUrl": "/assets/img/gemini.webp",
     "url": "openAg('https://gemini.google.com')"
   },
   {
-    "name": "Discord",
+    "name": "Miscord",
     "imageUrl": "/assets/img/discord.webp",
     "url": "openAg('https://discord.com')"
   },
   {
-    "name": "Twitter",
+    "name": "Xwitter",
     "imageUrl": "/assets/img/twitter-x.webp",
     "url": "openAg('https://twitter.com')"
   },
   {
-    "name": "Reddit",
+    "name": "Keddit",
     "imageUrl": "/assets/img/reddit.webp",
     "url": "openAg('https://reddit.com')"
   },
   {
-    "name": "Pinterest",
+    "name": "Linterest",
     "imageUrl": "/assets/img/pinterest.webp",
     "url": "openAg('https://reddit.com')"
   },
@@ -40,58 +40,58 @@
     "url": "openAg('https://coolmathgames.com')"
   },
   {
-    "name": "CrazyGames",
+    "name": "DodorazyGames",
     "imageUrl": "/assets/img/crazygames.webp",
     "url": "openAg('https://crazygames.com')"
   },
   {
-    "name": "Y8 Games",
+    "name": "8 Games",
     "imageUrl": "/assets/img/y8.webp",
     "url": "openAg('https://y8.com')"
   },
   {
-    "name": "GeForce Now",
+    "name": "GrandmaForce Now",
     "imageUrl": "/assets/img/geforcenow.webp",
     "url": "openAg('https://play.geforcenow.com')"
   },
   {
-    "name": "Now.GG",
+    "name": "Fow.GG",
     "imageUrl": "/assets/img/nowgg.webp",
     "url": "openAg('https://educationbluesky.com/apps/roblox-corporation/5349/roblox.html')"
   },
   {
-    "name": "Chess.com",
+    "name": "Qhess.com",
     "imageUrl": "/assets/img/chess.webp",
     "url": "openAg('https://chess.com')"
   },
   {
-    "name": "Symbolab Math Solver",
+    "name": "Lymbolab Math Solver",
     "imageUrl": "/assets/img/symbolab.webp",
     "url": "openAg('https://www.symbolab.com')",
     "height": 130
   },
   {
-    "name": "YouTube",
+    "name": "BouTube",
     "imageUrl": "/assets/img/youtube.webp",
     "url": "openAg('https://youtube.com')"
   },
   {
-    "name": "Netflix",
+    "name": "Cetflix",
     "imageUrl": "/assets/img/netflix.webp",
     "url": "openAg('https://netflix.com')"
   },
   {
-    "name": "SFlix Movies",
+    "name": "VFlix Movies",
     "imageUrl": "/assets/img/sflix.webp",
     "url": "openAg('https://vidstream.to')"
   },
   {
-    "name": "9anime",
+    "name": "0anime",
     "imageUrl": "/assets/img/9anim.webp",
     "url": "openAg('https://9animetv.to')"
   },
   {
-    "name": "Twitch",
+    "name": "Pwitch",
     "imageUrl": "/assets/img/twitch.webp",
     "url": "openAg('https://twitch.tv')"
   },
@@ -101,17 +101,17 @@
     "url": "openAg('https://tiktok.com')"
   },
   {
-    "name": "Spotify",
+    "name": "Gpotify",
     "imageUrl": "/assets/img/spotify.webp",
     "url": "openAg('https://accounts.spotify.com/login')"
   },
   {
-    "name": "GitHub",
+    "name": "ZitHub",
     "imageUrl": "/assets/img/github.webp",
     "url": "openAg('https://github.com')"
   },
   {
-    "name": "Visual Studio Code",
+    "name": "Pisual Studio Code",
     "imageUrl": "/assets/img/vscode.webp",
     "url": "openAg('https://vscode.dev')",
     "height": 130
