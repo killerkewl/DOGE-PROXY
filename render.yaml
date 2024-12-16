@@ -1,6 +1,6 @@
  services:
   - type: web
-    name: educational-website
+    name: hilointermedieta.k12.hi.us
     env: node
     plan: free
     startCommand: npm install && node index.js
