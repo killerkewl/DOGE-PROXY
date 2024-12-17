@@ -32,7 +32,7 @@ const themeStyles = {
   magma: { background: "rgb(31, 26, 26)" },
   sunset: { background: "rgb(29, 21, 27)" },
   midnight: { background: "rgb(27, 27, 27)" },
-  default: { background: "rgb(6, 22, 35)" }
+  default: { background: "rgb(6, 22, 35)" },
 };
 
 const selectedStyle = themeStyles[selectedTheme] || themeStyles.default;
