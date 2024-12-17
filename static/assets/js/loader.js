@@ -32,7 +32,8 @@ const themeStyles = {
   magma: { background: "rgb(31, 26, 26)" },
   sunset: { background: "rgb(29, 21, 27)" },
   midnight: { background: "rgb(27, 27, 27)" },
-  default: { background: "rgb(6, 22, 35)" }
+  default: { background: "rgb(6, 22, 35)" },
+  linux: { backgroundImage: "url('https://i.etsystatic.com/49131988/r/il/111e0c/5800723226/il_fullxfull.5800723226_rvg7.jpg')" }
 };
 
 const selectedStyle = themeStyles[selectedTheme] || themeStyles.default;
